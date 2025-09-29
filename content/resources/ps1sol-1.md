@@ -4,6 +4,8 @@ description: ''
 file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/75e61b32d79aaa706d37eaf32f1b898b_ps1sol.pdf
 file_size: 70110
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

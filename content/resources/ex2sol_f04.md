@@ -4,6 +4,8 @@ description: This resource contains solutions of exam 2 for the semester, fall 2
 file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/22649388964d9f854e5389bd7037e8dd_ex2sol_f04.pdf
 file_size: 99354
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
