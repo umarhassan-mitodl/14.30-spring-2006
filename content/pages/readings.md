@@ -2,8 +2,6 @@
 content_type: page
 description: This section includes required text and a calendar that incudes assigned
   readings from the three main texts used in the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

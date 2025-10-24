@@ -4,8 +4,6 @@ description: This resource contains solutions of the problem set for week 6.
 file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/cfbc1ea28fa5d66ee347f9fb49332dc5_ps6sol.pdf
 file_size: 73450
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

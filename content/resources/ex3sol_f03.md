@@ -5,8 +5,6 @@ description: This resource contains solutions of the statistics exam for the sem
 file: /courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/928f3dc4720bf650d407e833803c7be5_ex3sol_f03.pdf
 file_size: 109659
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
