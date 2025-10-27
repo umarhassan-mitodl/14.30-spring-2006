@@ -28,7 +28,7 @@ TOPICS
 {{< tdopen >}}
 Set and Probability Theory ({{% resource_link 40c6e412-c5bd-ddd8-0605-8187cf175b29 "PDF" %}})  
   
-[Basics of Set Theory](http://www.cs.odu.edu/~toida/nerzic/content/set/basics.html)
+{{% resource_link "5eb986b6-197a-41ee-9c18-a70538d4cfa7" "Basics of Set Theory" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +128,7 @@ Interval Estimation and Confidence Intervals ({{% resource_link ba442e12-92b7-88
   
 t-Student versus Standard Normal: A Graphical View ({{% resource_link d70cfa2f-f389-559f-e4b8-24babe132b8e "PDF" %}})  
   
-[The t-Distribution versus the Normal Distribution](http://www.econtools.com/jevons/java/Graphics2D/tDist.html) (Java Applet)
+{{% resource_link "73f9b114-7088-49bf-8a07-53ce21d45302" "The t-Distribution versus the Normal Distribution" %}} (Java Applet)
 {{< tdclose >}}
 
 {{< trclose >}}
